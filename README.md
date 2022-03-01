@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wanna try everything
 
 <!--
 **AgarthaSF/AgarthaSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Language
+[![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=plastic&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Java-purple?style=plastic&logo=java&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/-Golang-blue?style=plastic&logo=go&logoColor=ffffff)](https://golang.google.com/)
+[![](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript&logoColor=ffffff)](https://www.java.com/)
