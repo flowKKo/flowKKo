@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java-purple?style=plastic&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Golang-blue?style=plastic&logo=go&logoColor=ffffff)](https://golang.google.com/)
-[![](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/-TypeScript-purple?style=plastic&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-React-purple?style=plastic&logo=javascript&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Vue-purple?style=plastic&logo=javascript&logoColor=ffffff)](https://vuejs.org/)
+https://www.typescriptlang.org/
