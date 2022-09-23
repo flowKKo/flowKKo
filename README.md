@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Golang-blue?style=plastic&logo=go&logoColor=ffffff)](https://golang.google.com/)
 [![](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-React-blue?style=plastic&logo=javascript&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Vue-green?style=plastic&logo=javascript&logoColor=ffffff)](https://vuejs.org/)
-https://www.typescriptlang.org/
+[![](https://img.shields.io/badge/-React-blue?style=plastic&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Vue-green?style=plastic&logo=vue&logoColor=ffffff)](https://vuejs.org/)
