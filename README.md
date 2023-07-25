@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 [![Other Skills](https://skillicons.dev/icons?i=git,linux,docker,jenkins,nginx,postman,latex,pytorch,tensorflow)](https://skillicons.dev)
 
 #### IDE
-[![IDE](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=vscode,idea,androidstudio)](https://skillicons.dev)
 
 
