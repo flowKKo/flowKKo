@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 #### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,webpack,react,vue,redux,sass)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,webpack,react,vue,redux,sass)]()
 
 #### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=java,nodejs,go,cpp,py,mysql,redis)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=java,nodejs,go,cpp,py,mysql,redis)]()
 
 #### Client
-[![Client Skills](https://skillicons.dev/icons?i=electron,qt,android)](https://skillicons.dev)
+[![Client Skills](https://skillicons.dev/icons?i=electron,qt,android)]()
 
 #### Others
-[![Other Skills](https://skillicons.dev/icons?i=git,linux,docker,jenkins,nginx,postman,latex,pytorch,tensorflow)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=git,linux,docker,jenkins,nginx,postman,latex,pytorch,tensorflow)]()
 
 #### IDE
-[![IDE](https://skillicons.dev/icons?i=vscode,idea,androidstudio)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=vscode,idea,androidstudio)]()
 
 
