@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Language
-[![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=plastic&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
-[![](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Java-purple?style=plastic&logo=java&logoColor=ffffff)](https://www.java.com/)
-[![](https://img.shields.io/badge/-Golang-blue?style=plastic&logo=go&logoColor=ffffff)](https://golang.google.com/)
-[![](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-React-blue?style=plastic&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Vue-green?style=plastic&logo=vue&logoColor=ffffff)](https://vuejs.org/)
+#### Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,webpack,react,vue,redux,sass)](https://skillicons.dev)
+
+#### Backend
+[![Backend Skills](https://skillicons.dev/icons?i=java,nodejs,go,cpp,py,mysql,redis)](https://skillicons.dev)
+
+#### Client
+[![Client Skills](https://skillicons.dev/icons?i=electron,qt,android)](https://skillicons.dev)
+
+#### Others
+[![Other Skills](https://skillicons.dev/icons?i=git,linux,docker,jenkins,nginx,postman,latex,pytorch,tensorflow)](https://skillicons.dev)
+
+#### IDE
+[![IDE](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+
+
