@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,webpack,react,vue,redux,sass)]()
+[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,less,webpack,vite)]()
 
 #### Backend
 [![Backend Skills](https://skillicons.dev/icons?i=java,nodejs,go,cpp,py,mysql,redis)]()
